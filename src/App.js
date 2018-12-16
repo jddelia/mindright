@@ -10,7 +10,7 @@ class App extends Component {
     super(props);
     this.state = {
       savedQuotes: [],
-      savedHistory: []
+      savedHistory: [],
     };
     this.handleSaveQuote = this.handleSaveQuote.bind(this);
     this.handleDeleteSaved = this.handleDeleteSaved.bind(this);
@@ -32,7 +32,20 @@ class App extends Component {
     });
   }
 
+  shuffleQuotes(arr) {
+    let temp, randomIndex;
+    for (let i = arr.length - 1; i > -1; i--) {
+      randomIndex = Math.floor(Math.random() * i + 1)
+      temp = arr[i];
+      arr[i] = arr[randomIndex];
+      arr[randomIndex] = temp;
+    }
+    return arr;
+  }
+
   render() {
+    let quotes = this.shuffleQuotes([...Quotes]);
+
     let savedQuotes;
     if (this.state.savedHistory.length > 0) {
       savedQuotes = (
@@ -54,7 +67,7 @@ class App extends Component {
           <Switch>
             <Route exact path="/" render={() =>
               <Card
-                quotes={Quotes}
+                quotes={quotes.slice(0, 5)}
                 filterText={this.state.filterText}
                 handleSaveQuote={this.handleSaveQuote}
                 handleDeleteSaved={this.handleDeleteSaved}/>} />
