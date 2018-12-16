@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/mindright/static/css/main.7009a94a.chunk.css"
   },
   {
-    "revision": "6759c5747c944a38d447077b3e1dae08",
+    "revision": "70e908978e9da7557e5f75a2cb819cdf",
     "url": "/mindright/index.html"
   }
 ];
