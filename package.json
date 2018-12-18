@@ -2,7 +2,7 @@
   "name": "mindright",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jddelia.github.io/mind-right/",
+  "homepage": "https://jddelia.github.io/mindrightapp/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
