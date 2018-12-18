@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/mindright/static/js/runtime~main.b4482e70.js"
   },
   {
-    "revision": "753501ce89ddb145884b",
-    "url": "/mindright/static/js/main.753501ce.chunk.js"
+    "revision": "4e3653725e904e797e75",
+    "url": "/mindright/static/js/main.4e365372.chunk.js"
   },
   {
     "revision": "1840f6304ee3af639dd7",
     "url": "/mindright/static/js/1.1840f630.chunk.js"
   },
   {
-    "revision": "753501ce89ddb145884b",
-    "url": "/mindright/static/css/main.7009a94a.chunk.css"
+    "revision": "4e3653725e904e797e75",
+    "url": "/mindright/static/css/main.ef43cd3d.chunk.css"
   },
   {
-    "revision": "70e908978e9da7557e5f75a2cb819cdf",
+    "revision": "9939ed34a22ded354d12270dd7ec8254",
     "url": "/mindright/index.html"
   }
 ];
