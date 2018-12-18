@@ -1,13 +1,13 @@
 {
-  "main.css": "/mindright/static/css/main.ef43cd3d.chunk.css",
-  "main.js": "/mindright/static/js/main.4e365372.chunk.js",
-  "main.js.map": "/mindright/static/js/main.4e365372.chunk.js.map",
-  "static/js/1.1840f630.chunk.js": "/mindright/static/js/1.1840f630.chunk.js",
-  "static/js/1.1840f630.chunk.js.map": "/mindright/static/js/1.1840f630.chunk.js.map",
-  "runtime~main.js": "/mindright/static/js/runtime~main.b4482e70.js",
-  "runtime~main.js.map": "/mindright/static/js/runtime~main.b4482e70.js.map",
-  "static/css/main.ef43cd3d.chunk.css.map": "/mindright/static/css/main.ef43cd3d.chunk.css.map",
-  "index.html": "/mindright/index.html",
-  "precache-manifest.2f14eb6c17dcb43ccfab23d650224579.js": "/mindright/precache-manifest.2f14eb6c17dcb43ccfab23d650224579.js",
-  "service-worker.js": "/mindright/service-worker.js"
+  "main.css": "/mind-right/static/css/main.ef43cd3d.chunk.css",
+  "main.js": "/mind-right/static/js/main.4dfdb864.chunk.js",
+  "main.js.map": "/mind-right/static/js/main.4dfdb864.chunk.js.map",
+  "static/js/1.1840f630.chunk.js": "/mind-right/static/js/1.1840f630.chunk.js",
+  "static/js/1.1840f630.chunk.js.map": "/mind-right/static/js/1.1840f630.chunk.js.map",
+  "runtime~main.js": "/mind-right/static/js/runtime~main.bb56a765.js",
+  "runtime~main.js.map": "/mind-right/static/js/runtime~main.bb56a765.js.map",
+  "static/css/main.ef43cd3d.chunk.css.map": "/mind-right/static/css/main.ef43cd3d.chunk.css.map",
+  "index.html": "/mind-right/index.html",
+  "precache-manifest.16758cca9cfb51f7027acc76d259e800.js": "/mind-right/precache-manifest.16758cca9cfb51f7027acc76d259e800.js",
+  "service-worker.js": "/mind-right/service-worker.js"
 }
