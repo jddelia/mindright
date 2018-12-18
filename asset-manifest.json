@@ -1,13 +1,13 @@
 {
   "main.css": "/mindright/static/css/main.ef43cd3d.chunk.css",
-  "main.js": "/mindright/static/js/main.4e365372.chunk.js",
-  "main.js.map": "/mindright/static/js/main.4e365372.chunk.js.map",
+  "main.js": "/mindright/static/js/main.52414c94.chunk.js",
+  "main.js.map": "/mindright/static/js/main.52414c94.chunk.js.map",
   "static/js/1.1840f630.chunk.js": "/mindright/static/js/1.1840f630.chunk.js",
   "static/js/1.1840f630.chunk.js.map": "/mindright/static/js/1.1840f630.chunk.js.map",
   "runtime~main.js": "/mindright/static/js/runtime~main.b4482e70.js",
   "runtime~main.js.map": "/mindright/static/js/runtime~main.b4482e70.js.map",
   "static/css/main.ef43cd3d.chunk.css.map": "/mindright/static/css/main.ef43cd3d.chunk.css.map",
   "index.html": "/mindright/index.html",
-  "precache-manifest.2f14eb6c17dcb43ccfab23d650224579.js": "/mindright/precache-manifest.2f14eb6c17dcb43ccfab23d650224579.js",
+  "precache-manifest.799fd3d8ee2f2ff54ab10ac202b53d69.js": "/mindright/precache-manifest.799fd3d8ee2f2ff54ab10ac202b53d69.js",
   "service-worker.js": "/mindright/service-worker.js"
 }
