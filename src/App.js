@@ -62,7 +62,7 @@ class App extends Component {
             {savedQuotes}
           </nav>
           <header>
-            <h1><Link to="/"><span>MindRight</span></Link></h1>
+            <h1><Link to="/"><span className="logo">MindRight</span></Link></h1>
           </header>
           <Switch>
             <Route exact path="/" render={() =>

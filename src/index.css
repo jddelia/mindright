@@ -48,6 +48,15 @@ header {
   text-align: center;
 }
 
+.logo {
+  padding: 2%;
+  border-left: 2px solid;
+  border-bottom: 8px solid;
+  border-right: 2px solid;
+  border-top: 1px solid;
+  border-radius: 50px;
+}
+
 .card-filter {
   padding-left: 5%;
   padding-top: 2%;
@@ -68,7 +77,6 @@ footer {
   justify-content: center;
   margin-top: 4%;
   height: 100px;
-  width: 100%;
   background-color: silver;
 }
 
@@ -191,6 +199,10 @@ footer p {
   line-height: 1.8;
 }
 
+.quote-author {
+  padding-left: 80%;
+}
+
 .undo-btn {
   display: flex;
   align-items: center;
@@ -267,12 +279,5 @@ footer p {
   .quote-author {
     position: relative;
       left: 40%;
-  }
-}
-
-@media only screen and (min-width: 768px) {
-  .quote-author {
-    position: relative;
-      left: 80%;
   }
 }
