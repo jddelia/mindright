@@ -279,4 +279,22 @@ footer p {
   .quote-author {
     padding-left: 20%;
   }
+
+  .action-btns {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+      left: 75%;
+    height: 20px;
+    width: 25%;
+  }
+
+  .action-btn {
+    height: 15px;
+    width: 25%;
+    border: 1px solid;
+    border-radius: 100%;
+    box-shadow: 1px 1px 1px gray;
+  }
 }
